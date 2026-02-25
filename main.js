@@ -43,3 +43,7 @@ function animateConfetti() {
   }
 }
 animateConfetti();
+
+function toggleAnimation() {
+  document.querySelector('html').classList.toggle('animation-on');
+}
