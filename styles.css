@@ -264,6 +264,12 @@ div.four {
     opacity: 0.6;
 }
 
+#animation {
+    right: 0;
+    bottom: 0;
+    margin: 0 24px 24px 0;
+}
+
 /* ANIMATION */
 @-webkit-keyframes bounce {
     100% {
